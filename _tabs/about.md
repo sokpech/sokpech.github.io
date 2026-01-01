@@ -10,7 +10,6 @@ I'm a full-time job as a Senior Offensive Infrastructure Security which holds th
 - TCM Security: PNPT
 - Zero Point Security: CRTO
 - Offensive Security: OSCP, OSEP
-- Altered Security: CRTE
 - CREST: CPSA, CRT
 
 ⚠️ Disclaimer: 
