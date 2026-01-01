@@ -9,7 +9,7 @@ Welcome to my corner of the cybersecurity universe! This gitbook is where I shar
 I'm a full-time job as a Senior Offensive Infrastructure Security which holds the following certifications: 
 - TCM Security: PNPT
 - Zero Point Security: CRTO
-- Offensive Security: OSCP, OSEP
+- Offensive Security: OSCP, OSEP, OSWE
 - CREST: CPSA, CRT
 
 ⚠️ Disclaimer: 
